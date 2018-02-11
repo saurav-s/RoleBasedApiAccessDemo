@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>Api access control Demo</name>
-	<description>a Project for demonstarting api access control based upon roles</description>
+	<description>A Project for demonstrating REST api access control based upon roles</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
